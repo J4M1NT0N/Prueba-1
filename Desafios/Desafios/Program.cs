@@ -1,0 +1,1 @@
+﻿//Crear un miembro variable llamado SuperficieFrontal (resultado de multiplicar Alto por Largo), el cual debe ser de solo lectura.
